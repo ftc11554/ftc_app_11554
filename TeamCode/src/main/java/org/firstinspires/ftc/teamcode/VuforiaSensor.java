@@ -78,6 +78,7 @@ public class VuforiaSensor extends LinearOpMode {
      * {@link #vuforia} is the variable we will use to store our instance of the Vuforia
      * localization engine.
      */
+    // testing commit
     VuforiaLocalizer vuforia;
 
     @Override public void runOpMode() {
